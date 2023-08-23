@@ -2,7 +2,7 @@
   "name": "nodeserver",
   "version": "1.0.0",
   "description": "This is a node server for my chat application - ChatEase",
-  "main": "index.js",
+  "main": "nodeServer/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,4 +1,4 @@
-const socket = io('https://chatease-production.up.railway.app/');
+const socket = io('https://fine-red-bison-slip.cyclic.cloud/');
 
 // Get DOM elements in respective Js variables
 const form = document.getElementById('send-container');
